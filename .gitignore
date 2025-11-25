@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore git_push.txt (if you don’t want to track it)
+git_push.txt

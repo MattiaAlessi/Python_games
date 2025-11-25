@@ -1,0 +1,88 @@
+Battaglia navale (console)
+
+Griglia 10x10, posizionamento navi, turni alternati.
+
+Puoi aggiungere AI con ricerca probabilistica.
+
+Memory / Concentration
+
+Carte coperte, abbina coppie.
+
+Puoi implementare livelli di difficoltà e timer.
+
+Snake (con pygame)
+
+Classico serpente che cresce mangiando cibo.
+
+Ottimo per imparare gestione input e collisioni.
+
+Quiz game
+
+Domande multiple choice, punteggio, timer.
+
+Puoi modularizzare con file JSON per le domande.
+
+🕹️ Giochi intermedi
+Tower Defense semplificato
+
+Griglia, nemici che avanzano, torri con range e danno.
+
+Ottimo per imparare pathfinding e gestione eventi.
+
+Dungeon crawler testuale
+
+Stanze generate proceduralmente, loot, nemici.
+
+Puoi aggiungere inventario e statistiche RPG.
+
+Trading card game (astratto)
+
+Carte con attacco/difesa, turni, mana.
+
+Puoi simulare un mini-Hearthstone con regole ridotte.
+
+Platform 2D con pygame
+
+Personaggio che salta, ostacoli, livelli.
+
+Ottimo per imparare fisica e collisioni.
+
+🧠 Giochi avanzati
+Simulatore di hacking astratto (come quello che hai descritto)
+
+Difese e attacchi modulari, probabilità di successo, log eventi.
+
+Roguelike procedurale
+
+Mappe generate con algoritmi (BSP, cellular automata).
+
+Loot, permadeath, progressione.
+
+Simulatore gestionale
+
+Es. “gestisci una città” o “azienda di software”.
+
+Risorse, eventi casuali, crescita.
+
+Multiplayer online semplice
+
+Es. “tris” o “battaglia navale” con socket.
+
+Ottimo per imparare networking e sincronizzazione.
+
+💡 Idee originali e creative
+Gioco musicale
+
+Premi tasti al ritmo di una traccia (tipo Guitar Hero semplificato).
+
+Escape room testuale
+
+Puzzle logici, inventario, timer.
+
+Simulatore di ecosistema
+
+Animali con regole semplici (predatori/prede), crescita popolazioni.
+
+Gioco di parole
+
+Tipo “impiccato” o “parola segreta”, con dizionario Python.

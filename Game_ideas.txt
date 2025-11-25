@@ -1,3 +1,9 @@
+git add.
+git commit -m ""
+git push
+
+
+
 Battaglia navale (console)
 
 Griglia 10x10, posizionamento navi, turni alternati.

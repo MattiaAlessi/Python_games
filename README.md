@@ -4,6 +4,7 @@ This repository contains classic games implemented in Python for the **command l
 
 - **Battleship (CLI)** — a two‑player strategy game where players place ships and take turns firing shots.
 - **Memory Game (CLI)** — a single‑player card‑matching game where the goal is to find all pairs.
+- **Snake Game (CLI)** — a single‑player arcade game where the snake grows as it eats apples.
 
 
 ## Battleship (CLI)
@@ -45,6 +46,20 @@ This repository contains classic games implemented in Python for the **command l
    python memory/memory_main.py
    ```
 
+
+## Snake Game (CLI)
+
+### Features
+- Configurable grid size (default 10×20).
+- Snake represented with █ blocks, apple with @.
+- Real‑time movement using WASD or arrow keys.
+- Snake grows when eating apples.
+
+### How to Play
+1. Run the script:
+   ```bash
+   python Snake/snake_main.py
+   ```
 
 > This collection is just the beginning, new CLI games will be added over time.   
 > Stay tuned for updates, and feel free to contribute your own ideas!
